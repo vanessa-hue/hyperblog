@@ -9,6 +9,12 @@ blog para el curso de Git y Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+<<<<<<< HEAD
 * Creado por la increible vanessa 
+=======
+* Creado por la increible vanessa
+* Incluye ejemplos en windows
+* Disponible para todas las edades
+>>>>>>> readme-mejorado
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
